@@ -5,8 +5,7 @@ uenv is a linux module for mapping uboot env to sysfs
 
 *Only mtd device supported*
 
-Usage
------
+### Usage
 
 `insmod uenv name="uboot" offset=393216 size=262144`
 
